@@ -1,0 +1,37 @@
+view_filter: '!(~t "javascript" | ~t "css" | ~t "image")'
+anticache: True
+ssl_insecure: True
+ignore_hosts: 
+  - googleapis.com
+  - optimizely.com
+  - facebook.com
+  - google-analytics.com
+  - facebook.net
+  - iperceptions.com
+  - doubleclick.net
+  - adservice.google.com
+  - gstatic.com
+  - googletagservices.com
+  - bam.nr-data.net
+  - mozilla.org
+  - mozilla.com
+  - digicert.com
+  - ocsp\.digicert\.com
+  - firefox.com
+  - detectportal.firefox.com
+  - snapchat.com
+  - twitter.com
+  - adsrvr.org
+  - criteo.com
+  - myvisualiq.net
+  - bing.com
+  - tapad.com
+  - bidswitch.net
+  - truoptik.com
+  - nexac.com
+  - pingdom.net
+  - yahoo.com
+  - mookie1.com
+  - krxd.net
+  - adform.net
+  - fcmatch.google.com
